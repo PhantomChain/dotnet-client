@@ -22,6 +22,4 @@ If you discover a security vulnerability within this package, please send an e-m
 
 ## License
 
-[MIT](LICENSE) © [ArkEcosystem](https://ark.io)
-
 [MIT](LICENSE) © [Phantom](https://phantom.org)

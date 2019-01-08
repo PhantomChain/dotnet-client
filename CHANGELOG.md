@@ -15,7 +15,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## 0.2.1 - 2018-08-20
 
 ### Fixed
-- Pass in URIs with query parameters [https://github.com/ArkEcosystem/dotnet-client/commit/e42d4c74d72062126451a412fcff438b847b324a]
+- Pass in URIs with query parameters [https://github.com/PhantomChain/dotnet-client/commit/e42d4c74d72062126451a412fcff438b847b324a]
 
 ## 0.2.0 - 2018-08-02
 
